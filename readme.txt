@@ -3,5 +3,4 @@ Git is a free software distributed ubder the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 123 456 789
-0000
-
+JJJ
